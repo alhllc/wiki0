@@ -4,5 +4,6 @@ repo dump for important(?) links
 
 
 
-documentation: 
+github: 
 - git https://git-scm.com/book/en/v2
+- https://onlywei.github.io/explain-git-with-d3

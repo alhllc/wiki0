@@ -10,5 +10,6 @@ github:
 - add document tabs (appears next to README button) https://github.com/orgs/community/discussions/86658
 - https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 
-
+static web builder
 https://www.mkdocs.org/
+https://github.com/mkdocs/catalog
